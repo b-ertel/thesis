@@ -4,6 +4,6 @@
 
 ## In this repo you can find:
 
--[Thesis_Ertel.pdf](https://github.com/b-ertel/thesis/blob/main/Thesis_Ertel.pdf)
--[presentation]https://github.com/b-ertel/thesis/tree/main/presentation) 
--[Videos]https://github.com/b-ertel/thesis/tree/main/Videos) 
+- [Thesis_Ertel.pdf](https://github.com/b-ertel/thesis/blob/main/Thesis_Ertel.pdf)
+- [presentation]https://github.com/b-ertel/thesis/tree/main/presentation) 
+- [Videos]https://github.com/b-ertel/thesis/tree/main/Videos) 
